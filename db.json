@@ -6,12 +6,16 @@
         {
             "id": 1,
             "name": "Test1",
-            "description": "test1 ticket"
+            "description": "test1 ticket",
+            "ticketId":"test1",
+            "serviceJodId":"testServiceJob1" 
         },
         {
             "id": 2,
             "name": "Test2",
-            "description": "test2 ticket"
+            "description": "test2 ticket",
+            "ticketId":"test2",
+            "serviceJodId":"testServiceJob2" 
         }
     ]
 }
