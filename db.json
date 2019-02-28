@@ -1,14 +1,17 @@
 {
-    "tickets": [
-    {
-        "id": 1,
-        "name": "Test1",
-        "description": "test1 ticket"
+    "login": {
+        "apiKey": "testapi1234"
     },
-    {
-        "id": 2,
-        "name": "Test2",
-        "description": "test2 ticket"
-    }
-]
+    "tickets": [
+        {
+            "id": 1,
+            "name": "Test1",
+            "description": "test1 ticket"
+        },
+        {
+            "id": 2,
+            "name": "Test2",
+            "description": "test2 ticket"
+        }
+    ]
 }
